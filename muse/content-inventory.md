@@ -36,11 +36,16 @@ Last updated: 2026-10-29.
 
 ## Created — produced, awaiting Andrew's decision
 
-- 2026-10-29 — Series A Ep 002 "Start With One Job" (80.4s, stills version;
-  cloned voice, captions, cover, caption ready). Awaiting review.
-- 2026-10-29 — Series B Ep 003 "What Your Wi-Fi Is Doing All Day" (82.9s,
-  stills version; cloned voice, captions, cover, caption ready). Awaiting
-  review. Teases B Ep 004 (where a website actually lives).
+- 2026-10-29 — Series A Ep 002 "Start With One Job" — AUDIO-FIRST revision
+  (77.97s, narration only, no music/ambience; -16.2 LUFS, -1.5 dBFS true
+  peak; missed-call EXAMPLE mockup, before/after draft, judgment card;
+  script and clone narration unchanged). Ready for founder review.
+  NOT published.
+- 2026-10-29 — Series B Ep 003 "What Your Wi-Fi Is Doing All Day" —
+  AUDIO-FIRST revision (80.73s, narration only; -16.1 LUFS, -1.5 dBFS true
+  peak; accurate chain diagram + LINK DOWN state; script and clone
+  narration unchanged). Ready for founder review. NOT published. Teases
+  B Ep 004 (where a website actually lives).
 
 ## Content Muse has access to (sources, not posts)
 
